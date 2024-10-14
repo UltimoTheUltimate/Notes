@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Analysis Based On Transfer Functions.md",
+                "file": "System Performance in Time.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Analysis Based On Transfer Functions.md",
+                "file": "System Performance in Time.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Analysis Based On Transfer Functions.md",
+                "file": "System Performance in Time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Analysis Based On Transfer Functions.md"
+                "file": "System Performance in Time.md"
               }
             }
           }
@@ -199,9 +199,10 @@
   },
   "active": "55634de87dc04f03",
   "lastOpenFiles": [
+    "Control Systems.md",
+    "System Analysis Based On Transfer Functions.md",
     "System Behaviour Based On Poles.md",
     "Pasted image 20241014181418.png",
-    "System Analysis Based On Transfer Functions.md",
     "Pasted image 20241014181117.png",
     "Pasted image 20241014175033.png",
     "Pasted image 20240401120258.png",
@@ -212,7 +213,6 @@
     "Computer Logic 2/Computer Logic 2.md",
     "Computer Logic 2/Bi-Stable System.md",
     "Computer Logic 2/Introducing Memory To Combinational Logic Circuits.md",
-    "Control Systems.md",
     "System Performance in Time.md",
     "Chapter 4 [[System Performance in time.md",
     "Chapter 4 [System Performance in time.md",
