@@ -1,0 +1,1 @@
+The rise time $t_{r}$ is defined as the time required for the step response to rise from 10% to 90% of its final value.

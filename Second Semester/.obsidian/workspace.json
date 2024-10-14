@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "db386771884326ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb46813627345ddd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bf57330a131c1e3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "55634de87dc04f03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Analysis Based On Transfer Functions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c17f40d58182c9c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Logic 2/Computer Logic 2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c8313d6b445b7cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Logic 2/Bi-Stable System.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5894c022d5e48b19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Logic 2/Introducing Memory To Combinational Logic Circuits.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8a7ca14959cec0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "76f52cf4d9f81c39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "832eed4ea09de737",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "15fcd4b0fcae17d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "50cae5010481ee87",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "909dd98b88ffaf57",
+    "type": "split",
+    "children": [
+      {
+        "id": "33f290a6aaa52fcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "054457fedb1fba2b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "System Analysis Based On Transfer Functions.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d91e78204eb0dde9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "System Analysis Based On Transfer Functions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62de94c00572dae8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a824fec9be0397ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "System Analysis Based On Transfer Functions.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "latex-ocr:LatexOCR": false
+    }
+  },
+  "active": "55634de87dc04f03",
+  "lastOpenFiles": [
+    "System Behaviour Based On Poles.md",
+    "Pasted image 20241014181418.png",
+    "System Analysis Based On Transfer Functions.md",
+    "Pasted image 20241014181117.png",
+    "Pasted image 20241014175033.png",
+    "Pasted image 20240401120258.png",
+    "Pasted image 20240401120800.png",
+    "Pasted image 20241014164157.png",
+    "Pasted image 20241014164459.png",
+    "Pasted image 20241014164522.png",
+    "Computer Logic 2/Computer Logic 2.md",
+    "Computer Logic 2/Bi-Stable System.md",
+    "Computer Logic 2/Introducing Memory To Combinational Logic Circuits.md",
+    "Control Systems.md",
+    "System Performance in Time.md",
+    "Chapter 4 [[System Performance in time.md",
+    "Chapter 4 [System Performance in time.md",
+    "Steady State Response.md",
+    "Microelectronic Devices/Diodes.md",
+    "Transient Response.md",
+    "Settling Time.md",
+    "Rise Time.md",
+    "Delay Time.md",
+    "Maximum Overshoot.md",
+    "The Core.md",
+    "Computer Logic 2/Bi-Stable Not Gates.md",
+    "Computer Logic 2/Drawing 2024-05-09 08.32.36.excalidraw.md",
+    "Computer Logic 2/Untitled.canvas",
+    "Computer Logic 2/Latches.md",
+    "latch.md",
+    "Computer Logic 2",
+    "Microelectronic Devices/Microelectronic Devices.md",
+    "Excalidraw/Drawing 2024-03-23 18.08.41.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-23 18.07.07.excalidraw.md",
+    "Excalidraw",
+    "Microelectronic Devices/Resources/Drawing 2024-03-23 18.00.24.excalidraw.md",
+    "Microelectronic Devices/Resources",
+    "Microelectronic Devices"
+  ]
+}
