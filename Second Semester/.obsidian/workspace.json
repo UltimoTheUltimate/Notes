@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Performance in Time.md",
+                "file": "Testing signals for steady state error analysis.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Performance in Time.md",
+                "file": "Testing signals for steady state error analysis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Performance in Time.md",
+                "file": "Testing signals for steady state error analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Performance in Time.md"
+                "file": "Testing signals for steady state error analysis.md"
               }
             }
           }
@@ -199,8 +199,29 @@
   },
   "active": "55634de87dc04f03",
   "lastOpenFiles": [
+    "Error due to a Parabolic input.md",
+    "Testing signals for steady state error analysis.md",
+    "Error due to a Ramp input.md",
+    "Error due to a step input.md",
+    "Workingssestep.md",
+    "Ramp input.md",
+    "Parabolic Input.md",
+    "Pasted image 20241021115146.png",
+    "Pasted image 20241021115050.png",
+    "Step input.md",
+    "Pasted image 20241021114930.png",
+    "Steady State Errors.md",
+    "Transient Response Of Second Order Systems.md",
+    "System Type.md",
+    "WorkingSSE.md",
+    "System Performance in Time.md",
+    "Transient Response.md",
     "Control Systems.md",
+    "Microelectronic Devices/Microelectronic Devices.md",
     "System Analysis Based On Transfer Functions.md",
+    "The Core.md",
+    "Signals And Systems.md",
+    "Lecture 2.md",
     "System Behaviour Based On Poles.md",
     "Pasted image 20241014181418.png",
     "Pasted image 20241014181117.png",
@@ -209,32 +230,14 @@
     "Pasted image 20240401120800.png",
     "Pasted image 20241014164157.png",
     "Pasted image 20241014164459.png",
-    "Pasted image 20241014164522.png",
     "Computer Logic 2/Computer Logic 2.md",
     "Computer Logic 2/Bi-Stable System.md",
     "Computer Logic 2/Introducing Memory To Combinational Logic Circuits.md",
-    "System Performance in Time.md",
     "Chapter 4 [[System Performance in time.md",
     "Chapter 4 [System Performance in time.md",
-    "Steady State Response.md",
-    "Microelectronic Devices/Diodes.md",
-    "Transient Response.md",
-    "Settling Time.md",
-    "Rise Time.md",
-    "Delay Time.md",
-    "Maximum Overshoot.md",
-    "The Core.md",
-    "Computer Logic 2/Bi-Stable Not Gates.md",
-    "Computer Logic 2/Drawing 2024-05-09 08.32.36.excalidraw.md",
     "Computer Logic 2/Untitled.canvas",
-    "Computer Logic 2/Latches.md",
-    "latch.md",
     "Computer Logic 2",
-    "Microelectronic Devices/Microelectronic Devices.md",
-    "Excalidraw/Drawing 2024-03-23 18.08.41.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-23 18.07.07.excalidraw.md",
     "Excalidraw",
-    "Microelectronic Devices/Resources/Drawing 2024-03-23 18.00.24.excalidraw.md",
     "Microelectronic Devices/Resources",
     "Microelectronic Devices"
   ]
