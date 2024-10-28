@@ -14,3 +14,4 @@ $y_{ss}\left(t\right)$ is the [[Steady State Response]]
 
 [[Transient Response Of Second Order Systems]]
 
+[[Sensitivity Functions]]
