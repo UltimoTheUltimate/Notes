@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Root-Locus Analysis.md",
+                "file": "Construction Rules.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Root-Locus Analysis"
+              "title": "Construction Rules"
             }
           },
           {
@@ -224,8 +224,9 @@
   },
   "active": "55634de87dc04f03",
   "lastOpenFiles": [
-    "Closed loop poles.md",
     "Root-Locus Analysis.md",
+    "Construction Rules.md",
+    "Closed loop poles.md",
     "Pasted image 20241028122113.png",
     "Control Systems.md",
     "System Performance in Time.md",
@@ -255,7 +256,6 @@
     "Transient Response.md",
     "Microelectronic Devices/Microelectronic Devices.md",
     "The Core.md",
-    "Signals And Systems.md",
     "Pasted image 20241014181418.png",
     "Pasted image 20241014181117.png",
     "Pasted image 20241014175033.png",

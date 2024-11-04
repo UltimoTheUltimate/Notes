@@ -18,3 +18,28 @@ $$\frac{C}{R}=\frac{G}{1+\frac{kN}{D}}=\frac{GD}{D+kN}$$
 $$D+kN=0$$
 - For $k=0$, the roots of the characteristic equation are the roots of $D=0$ which are the poles of the open loop transfer function. For k approaching $\infty$, the roots approach those of $N=0$, the open loop zeros.
 	- Thus as $k$ increases, from zero to infinity, the loci of the closed loop poles originate from the open loop poles and terminate at the open loop zeros. 
+
+The root locus therefore helps the designer to predict the closed loop poles for a specific gain value and indicate how the closed loop poles and zeros are to be modified to meet the desired system performance specifications.
+
+Ex. plot the root locus analytically for the system with OLTF given by: 
+$$GH=\frac{k}{s\left(s+4\right)}$$
+The characteristic equation is given by:
+
+$$1+GH=0$$
+$$1+\frac{k}{s\left(s+k\right)}=0$$
+$$s^2+4s+k=0$$
+$$s=-2\pm\sqrt{4-k}$$
+
+| k   | S2    | S2    |
+| --- | ----- | ----- |
+| 0   | $0$   | -4    |
+| 0.5 | 0.13  | -3.87 |
+| 1   | -0.27 | -3.73 |
+| 3   | -1    | -3    |
+| 4   | -2    | -2    |
+| 5   | -2+i  | -2-i  |
+- for all values of $k>0$, the closed loop system is stable as both poles lie on the left hand side of the plane. 
+- For $0\le k\le4$ the poles are real and hence we have non oscillatory response.
+- For $k>4$ poles are complex which implies an oscillatory response with a decaying effect since the real part is negative.
+- as $k$ increases, the imaginary part increases, therefore the frequency of oscillations increases.
+[[Construction Rules]]
