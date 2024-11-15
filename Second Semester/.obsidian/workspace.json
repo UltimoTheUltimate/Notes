@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Construction Rules.md",
+                "file": "RLExamples.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Construction Rules"
+              "title": "RLExamples"
             }
           },
           {
@@ -226,6 +226,7 @@
   "lastOpenFiles": [
     "Root-Locus Analysis.md",
     "Construction Rules.md",
+    "RLExamples.md",
     "Closed loop poles.md",
     "Pasted image 20241028122113.png",
     "Control Systems.md",
@@ -255,7 +256,6 @@
     "WorkingSSE.md",
     "Transient Response.md",
     "Microelectronic Devices/Microelectronic Devices.md",
-    "The Core.md",
     "Pasted image 20241014181418.png",
     "Pasted image 20241014181117.png",
     "Pasted image 20241014175033.png",

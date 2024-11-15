@@ -43,3 +43,7 @@ $$s=-2\pm\sqrt{4-k}$$
 - For $k>4$ poles are complex which implies an oscillatory response with a decaying effect since the real part is negative.
 - as $k$ increases, the imaginary part increases, therefore the frequency of oscillations increases.
 [[Construction Rules]]
+
+Examples:
+
+[[RLExamples]]
