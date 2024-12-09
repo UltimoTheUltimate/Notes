@@ -44,6 +44,9 @@ $$s=-2\pm\sqrt{4-k}$$
 - as $k$ increases, the imaginary part increases, therefore the frequency of oscillations increases.
 [[Construction Rules]]
 
+[[Routh-Hurwitz Criterion]]
+
+
 Examples:
 
 [[RLExamples]]
