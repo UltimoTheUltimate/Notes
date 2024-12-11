@@ -1,0 +1,1 @@
+A phase crossover on the open loop transfer function is a point where the phase plot crosses the -180$\degree$ line

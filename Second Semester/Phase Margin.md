@@ -1,0 +1,1 @@
+Phase Margin is the phase change of the open loop transfer function required to make the closed loop system unstable. This can be easily read off a bode plot from phase change at the [[Gain Crossover Frequency]].

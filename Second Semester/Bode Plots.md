@@ -2,3 +2,6 @@ A bode Plot (or diagram) consists of 2 graphs: a magnitude plot and a phase plot
 1. [[Constant Factor K]]
 2. [[Integral And Derivative Terms]] $\left(j\omega\right)^{\pm1}$
 3. [[First-order factors]] $\left(1\pm j\omega\right)^{\pm1}$
+
+[[Stability Analysis with bode Plots]]
+
