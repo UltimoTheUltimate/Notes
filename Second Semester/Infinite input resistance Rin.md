@@ -1,0 +1,1 @@
+This implies that the current $I_{in}$ into each of the input terminals is zero: $$I_{in}=0$$

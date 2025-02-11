@@ -26,7 +26,7 @@ $$GH=\frac{k}{s\left(s+4\right)}$$
 The characteristic equation is given by:
 
 $$1+GH=0$$
-$$1+\frac{k}{s\left(s+k\right)}=0$$
+$$1+\frac{k}{s\left(s+4\right)}=0$$
 $$s^2+4s+k=0$$
 $$s=-2\pm\sqrt{4-k}$$
 

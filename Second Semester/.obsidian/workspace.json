@@ -8,105 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "55634de87dc04f03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System Analysis Based On Transfer Functions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "System Analysis Based On Transfer Functions"
-            }
-          },
-          {
-            "id": "90fffdb48622a3ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ramp input.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ramp input"
-            }
-          },
-          {
-            "id": "46287cfbdb8c6947",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Routh-Hurwitz Criterion.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Routh-Hurwitz Criterion"
-            }
-          },
-          {
-            "id": "7eae279342953e53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phase Crossover Frequency.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Phase Crossover Frequency"
-            }
-          },
-          {
-            "id": "67082ae5b195f85e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
-          },
-          {
-            "id": "c17f40d58182c9c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Logic 2/Computer Logic 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Computer Logic 2"
-            }
-          },
-          {
             "id": "5894c022d5e48b19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Logic 2/Introducing Memory To Combinational Logic Circuits.md",
+                "file": "Non-Inverting Amplifier.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Introducing Memory To Combinational Logic Circuits"
+              "title": "Non-Inverting Amplifier"
             }
           }
         ]
@@ -128,7 +50,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -161,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -252,44 +176,44 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "55634de87dc04f03",
+  "active": "5894c022d5e48b19",
   "lastOpenFiles": [
-    "System Behaviour Based On Poles.md",
-    "System Analysis Based On Transfer Functions.md",
-    "Control Systems.md",
-    "System Performance in Time.md",
-    "Transient Response Of Second Order Systems.md",
-    "Root-Locus Analysis.md",
+    "Circuits.md",
+    "Inverting Amplifier.md",
+    "Non-Inverting Amplifier.md",
+    "Opamps and filters.md",
+    "introduction.md",
     "The Core.md",
-    "Bode Plots.md",
-    "First-order factors.md",
-    "exampleBode.md",
-    "Stability Analysis with bode Plots.md",
-    "Phase Margin.md",
-    "Gain Crossover Frequency.md",
-    "Gain Crossover.md",
-    "Gain Margin.md",
-    "Phase Crossover Frequency.md",
-    "RLExamples.md",
+    "Properties of a Practical op-amp.md",
+    "Properties of an Ideal op-amp.md",
+    "Zero output resistance Rout.md",
+    "Infinite input resistance Rin.md",
+    "Infinite open loop gain A.md",
+    "Properties of an Ideal opamp.md",
+    "Pasted image 20250211101811.png",
+    "Pasted image 20250211101743.png",
     "Computer Logic 2/Computer Logic 2.md",
-    "Computer Logic 2/Bi-Stable System.md",
     "Computer Logic 2/Introducing Memory To Combinational Logic Circuits.md",
+    "Sensitivity Functions.md",
+    "System Performance in Time.md",
+    "Control Systems.md",
+    "System Analysis Based On Transfer Functions.md",
+    "Bode Plots.md",
+    "Stability Analysis with bode Plots.md",
+    "Gain Crossover.md",
+    "Delay Time.md",
+    "Construction Rules.md",
+    "Root-Locus Analysis.md",
     "Routh-Hurwitz Criterion.md",
-    "Ramp input.md",
-    "Phase Crossover.md",
+    "RLExamples.md",
     "Pasted image 20241202134425.png",
     "Pasted image 20241202134412.png",
     "Pasted image 20241202132947.png",
     "Pasted image 20241202132150.png",
     "Pasted image 20241202125657.png",
     "Pasted image 20241202125645.png",
-    "Constant Factor K.md",
-    "Integral And Derivative Terms.md",
     "Pasted image 20241202124550.png",
     "Pasted image 20241202124412.png",
-    "Pasted image 20241202124205.png",
-    "Pasted image 20241202123258.png",
-    "Signals And Systems.md",
     "Control Systems",
     "Control SYstems",
     "Computer Logic 2/Untitled.canvas",

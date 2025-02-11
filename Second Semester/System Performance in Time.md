@@ -1,4 +1,4 @@
-To analyse system behaviour in time, we need to consider its behaviour in the **time domain**.
+ dTo analyse system behaviour in time, we need to consider its behaviour in the **time domain**.
 
 Time response is given by: 
 $$y\left(t\right)=y_{t}\left(t\right)+y_{ss}\left(t\right)$$

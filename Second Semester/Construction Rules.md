@@ -12,7 +12,7 @@ $$\frac{\left(k\left|s+z_1\Vert s+z_2\right|\ldots\left|s+z_{n}\right|\right)}{}
 	- If branches start from the poles of GH then there are as many branches as there are poles.
 
 **Rule 3:** Real Axis 
-- Any parts of the root locus on the real axis lie on the left of the odd number of poles and zeros of GH (that lie on the real axis.)
+- Any parts of the root locus on the real axis lie on the left of the odd number of poles and zeros of GH (that lie on the real axis.)  
 
 **Rule 4:**
 - For large distances from the origin in the complex plane, the branches of the root locus approach a set of straight line asymptotes. The number of asymptotes is given by the difference between the number of poles n and the number of zeros m
