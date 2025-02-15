@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eb46813627345ddd",
+        "id": "ca0265681bc1303f",
         "type": "tabs",
         "children": [
           {
-            "id": "5894c022d5e48b19",
+            "id": "e37113d2fa740774",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Non-Inverting Amplifier.md",
+                "file": "Introduction PRML.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Non-Inverting Amplifier"
+              "title": "Introduction PRML"
+            }
+          },
+          {
+            "id": "b611035c8e8e5d5e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -176,36 +186,36 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "5894c022d5e48b19",
+  "active": "e37113d2fa740774",
   "lastOpenFiles": [
-    "Circuits.md",
-    "Inverting Amplifier.md",
-    "Non-Inverting Amplifier.md",
-    "Opamps and filters.md",
-    "introduction.md",
+    "Regression Models.md",
+    "Introduction PRML.md",
+    "Classification Models.md",
+    "Pattern Recognition and Machine Learning.md",
     "The Core.md",
-    "Properties of a Practical op-amp.md",
-    "Properties of an Ideal op-amp.md",
-    "Zero output resistance Rout.md",
-    "Infinite input resistance Rin.md",
-    "Infinite open loop gain A.md",
-    "Properties of an Ideal opamp.md",
-    "Pasted image 20250211101811.png",
-    "Pasted image 20250211101743.png",
+    "Introduction CT.md",
+    "General Communications System.md",
+    "Sink.md",
+    "Reciever.md",
+    "Channel.md",
+    "Transmitter.md",
+    "Information Source.md",
+    "Communications Theory.md",
+    "introduction.md",
     "Computer Logic 2/Computer Logic 2.md",
     "Computer Logic 2/Introducing Memory To Combinational Logic Circuits.md",
+    "Computer Logic 2/Latches.md",
+    "SR Latches.md",
     "Sensitivity Functions.md",
     "System Performance in Time.md",
-    "Control Systems.md",
-    "System Analysis Based On Transfer Functions.md",
-    "Bode Plots.md",
-    "Stability Analysis with bode Plots.md",
-    "Gain Crossover.md",
-    "Delay Time.md",
-    "Construction Rules.md",
-    "Root-Locus Analysis.md",
-    "Routh-Hurwitz Criterion.md",
-    "RLExamples.md",
+    "Testing signals for steady state error analysis.md",
+    "Step input.md",
+    "Inverting Amplifier.md",
+    "Circuits.md",
+    "Non-Inverting Amplifier.md",
+    "Opamps and filters.md",
+    "Pasted image 20250211101811.png",
+    "Pasted image 20250211101743.png",
     "Pasted image 20241202134425.png",
     "Pasted image 20241202134412.png",
     "Pasted image 20241202132947.png",

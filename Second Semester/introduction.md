@@ -1,7 +1,7 @@
 Why do we use op-amps?
 
 $signal_1=useful_1+noise_1$
-$signal_2=useful_2+noise_2$
+$signal_2=useful_2+noise_2
 $signal_1-signal_2=useful_1-useful_2+0$
 
 

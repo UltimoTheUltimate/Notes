@@ -1,0 +1,1 @@
+Performs the inverse operations of the transmitter (demodulation etc) to reconstruct the original signal
