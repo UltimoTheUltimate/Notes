@@ -124,6 +124,25 @@ Assume that we have only signal and white Gaussian noise
 Shannon showed that channel capacity is:
 
 $$C=B\log_2\left(1+\frac{S}{N}\right)\left(bits/sec\right)$$
-where $B$ is the bandwidth in $Hz$  and $\frac{S}{N}$ is signal to noise power ratio at input of digital receiver
+- Where $B$ is the bandwidth in $Hz$  and $\frac{S}{N}$ is signal to noise power ratio at input of digital receiver
 
 If the rate of information $R (bits/s)$ is less than $C$, then the probability of error approaches 0. 
+
+Example: calculate the highest bit rate that can be obtained if we have a 4kHz bandwidth channel presenting an SNR of 380
+$$C=4000\centerdot \log_2(1+380)=400 \centerdot 8.57 =34,294b/s $$
+
+Observation: to increase data rate we can:
+- increase the bandwidth
+- improve SNR
+	- increase the ability of the receiver to correctly reconstruct message
+
+Example: Assume that a communications channel lies between 4MHz and 5MHz and the measured SNR is 18dB, determine the capacity:
+$SNR\approx64$
+Bandwidth $=1$ MHz
+$$C=1\centerdot 10^6\log_2(1+64)=6Mb/s$$
+What is the number of signal levels that can be accomodated in this channel?
+
+$$C=2B\log$$
+
+...
+[[Transmission impariment]]

@@ -1,0 +1,2 @@
+Consider the following circuit:
+

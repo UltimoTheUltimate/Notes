@@ -19,8 +19,11 @@ We will be looking at the following **amplifier circuits**:
 
 [[Non-Inverting Amplifier]]
 
+[[Summing Amplifier]]
 
+[[Integrator|Integratoratorer]]
 
-$V^{+}=V^{-}$
+[[Instrementation Amplifier]]
 
+[[DC non-idealities]]
 

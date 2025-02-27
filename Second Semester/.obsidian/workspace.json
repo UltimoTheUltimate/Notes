@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction PRML.md",
+                "file": "Integrator.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,20 +28,45 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Introduction PRML"
+              "title": "Integrator"
             }
           },
           {
-            "id": "b611035c8e8e5d5e",
+            "id": "48ed9d745ab512cf",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "markdown",
+              "state": {
+                "file": "AC Analysis of an MOS transistor in Pinch-off.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
+              },
+              "icon": "lucide-file",
+              "title": "AC Analysis of an MOS transistor in Pinch-off"
+            }
+          },
+          {
+            "id": "0d507a428f58a403",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,44 +211,44 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "e37113d2fa740774",
+  "active": "48ed9d745ab512cf",
   "lastOpenFiles": [
-    "Regression Models.md",
-    "Introduction PRML.md",
-    "Classification Models.md",
-    "Pattern Recognition and Machine Learning.md",
+    "Pasted image 20250225114045.png",
+    "Pasted image 20250225114017.png",
+    "IC Building Blocks.md",
+    "AC Analysis of an MOS transistor in Pinch-off.md",
+    "Body Effect.md",
+    "Pasted image 20250225103511.png",
+    "Channel Length Modulation.md",
+    "Pasted image 20250225101730.png",
+    "Equations.md",
+    "Output Characteristics of N-Channel transistors.md",
+    "Pasted image 20250220113918.png",
+    "Pasted image 20250220111928.png",
+    "Operational Amplifiers and Applications.md",
     "The Core.md",
-    "Introduction CT.md",
-    "General Communications System.md",
-    "Sink.md",
-    "Reciever.md",
-    "Channel.md",
-    "Transmitter.md",
-    "Information Source.md",
-    "Communications Theory.md",
-    "introduction.md",
-    "Computer Logic 2/Computer Logic 2.md",
-    "Computer Logic 2/Introducing Memory To Combinational Logic Circuits.md",
-    "Computer Logic 2/Latches.md",
-    "SR Latches.md",
-    "Sensitivity Functions.md",
-    "System Performance in Time.md",
-    "Testing signals for steady state error analysis.md",
-    "Step input.md",
-    "Inverting Amplifier.md",
     "Circuits.md",
-    "Non-Inverting Amplifier.md",
-    "Opamps and filters.md",
-    "Pasted image 20250211101811.png",
-    "Pasted image 20250211101743.png",
-    "Pasted image 20241202134425.png",
-    "Pasted image 20241202134412.png",
-    "Pasted image 20241202132947.png",
-    "Pasted image 20241202132150.png",
-    "Pasted image 20241202125657.png",
-    "Pasted image 20241202125645.png",
-    "Pasted image 20241202124550.png",
-    "Pasted image 20241202124412.png",
+    "Instrementation Amplifier.md",
+    "Pasted image 20250220100555.png",
+    "Communications Theory.md",
+    "Signals And Noise.md",
+    "Fourier Transform.md",
+    "Time Invariant Systems.md",
+    "Causal and Non-Causal signals.md",
+    "Random and Deterministic Signals.md",
+    "Introduction CT.md",
+    "Transmission impariment.md",
+    "Noise.md",
+    "Distortion.md",
+    "Attenuation.md",
+    "Pasted image 20250219181508.png",
+    "Pasted image 20250219181458.png",
+    "Pasted image 20250219181446.png",
+    "Integrator.md",
+    "Summing Amplifier.md",
+    "DC non-idealities.md",
+    "Pasted image 20250218110922.png",
+    "Computer Systems and Organisation.md",
     "Control Systems",
     "Control SYstems",
     "Computer Logic 2/Untitled.canvas",

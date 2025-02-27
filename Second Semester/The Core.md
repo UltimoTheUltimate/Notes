@@ -8,6 +8,7 @@ Second Year
 
 [[Control Systems]]
 [[Signals And Systems]]
-[[Opamps and filters]]
+[[Operational Amplifiers and Applications]]
 [[Communications Theory]]
 [[Pattern Recognition and Machine Learning]]
+[[Computer Systems and Organisation]]
