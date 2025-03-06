@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Integrator.md",
+                "file": "Current Mismatches.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Integrator"
+              "title": "Current Mismatches"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AC Analysis of an MOS transistor in Pinch-off.md",
+                "file": "DC non-idealities.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AC Analysis of an MOS transistor in Pinch-off"
+              "title": "DC non-idealities"
             }
           },
           {
@@ -65,8 +65,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,44 +210,44 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "48ed9d745ab512cf",
+  "active": "e37113d2fa740774",
   "lastOpenFiles": [
+    "Current Mirror.md",
+    "Current Mismatches.md",
+    "Cascode Current Mirror.md",
+    "Pasted image 20250306112719.png",
+    "Pasted image 20250306110950.png",
+    "Pasted image 20250306103200.png",
+    "IC Analogue Building Blocks.md",
+    "Operational Amplifiers and Applications.md",
+    "IC Building Blocks.md",
+    "Channel Length Modulation.md",
+    "Current Source.md",
+    "Circuits.md",
+    "Integrator.md",
+    "DC non-idealities.md",
+    "Inverting Amplifier.md",
+    "The Core.md",
+    "introduction.md",
+    "Active Resistors.md",
+    "Source absorption theory.md",
+    "AC Analysis of an MOS transistor in Pinch-off.md",
+    "Passive Resistors.md",
     "Pasted image 20250225114045.png",
     "Pasted image 20250225114017.png",
-    "IC Building Blocks.md",
-    "AC Analysis of an MOS transistor in Pinch-off.md",
     "Body Effect.md",
     "Pasted image 20250225103511.png",
-    "Channel Length Modulation.md",
     "Pasted image 20250225101730.png",
     "Equations.md",
     "Output Characteristics of N-Channel transistors.md",
     "Pasted image 20250220113918.png",
     "Pasted image 20250220111928.png",
-    "Operational Amplifiers and Applications.md",
-    "The Core.md",
-    "Circuits.md",
     "Instrementation Amplifier.md",
     "Pasted image 20250220100555.png",
     "Communications Theory.md",
     "Signals And Noise.md",
     "Fourier Transform.md",
     "Time Invariant Systems.md",
-    "Causal and Non-Causal signals.md",
-    "Random and Deterministic Signals.md",
-    "Introduction CT.md",
-    "Transmission impariment.md",
-    "Noise.md",
-    "Distortion.md",
-    "Attenuation.md",
-    "Pasted image 20250219181508.png",
-    "Pasted image 20250219181458.png",
-    "Pasted image 20250219181446.png",
-    "Integrator.md",
-    "Summing Amplifier.md",
-    "DC non-idealities.md",
-    "Pasted image 20250218110922.png",
-    "Computer Systems and Organisation.md",
     "Control Systems",
     "Control SYstems",
     "Computer Logic 2/Untitled.canvas",

@@ -21,3 +21,6 @@ Pinch-off means that the thickness of the channel has become very narrow.
 [[Channel Length Modulation]]
 [[Body Effect]]
 [[AC Analysis of an MOS transistor in Pinch-off]]
+[[Passive Resistors]]
+[[Active Resistors]]
+

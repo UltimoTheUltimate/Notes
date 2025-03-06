@@ -1,0 +1,3 @@
+![[Pasted image 20250306110950.png]]
+
+In the cascode current mirror, M3 and M4 are added, where the gates of M3, M4 are connected together, but the sources of M3 and M4 are not connected together. As a result, changes in ${V_{out}}$ are taken up by $V_{DS4}$ rather than by $V_DS2$. M2 therefore operates with $V_{DS2}=V_{DS1}$ and thus $$\frac{I_{out}}{I_{in}}=\frac{\frac{W}{L}_2}{\frac{W}{L}_1}$$ The cascode current mirror has the disadvantage that $V_{min}$ is increased since both M2 and M4 must be kept in pinchoff. $$V_{min}=V_{DS2_{sat}+V_{DS4_{sat}}}$$  
