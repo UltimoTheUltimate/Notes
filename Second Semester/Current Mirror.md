@@ -1,18 +1,18 @@
 Consider the circuit of the simple current mirror shown.
 
-It consists of two transistors with their gates connected together and their sources connected also together such that $V_{GS1}=V_{GS2}$ in addition the thransistor at the input side is diode connected.
+It consists of two transistors with their gates connected together and their sources connected also together such that $V_{GS1}=V_{GS2}$ in addition the transistor at the input side is diode connected.
 
-This ensures than M1 operates in pinchoff.
+This ensures that $M_1$ operates in pinch-off.
 
-For a constant I_D when $V_{GS}$ increases $V_{DS}$ decreases, when $V_{GS}$ decreases, $V_{DS}$ increases.
+For a constant $I_D$ when $V_{GS}$ increases $V_{DS}$ decreases, when $V_{GS}$ decreases, $V_{DS}$ increases.
 
-by using a current mirror we need to ensure that the transistor M2 always operates in pinch-off. The limit for M_2 to operate in pinchoff is given by $$V_{DG2} = -V_T$$ $$V_{DS2}=V_{GS2}-V_T $$
-The minimum value of $V_{out}$ which ensures that $M_2$ operates in pinchoff is called $V_{min}$  Note that $V_o=V_{DS2}$ 
+by using a current mirror we need to ensure that the transistor $M_2$ always operates in pinch-off. The limit for $M_2$ to operate in pinch-off is given by $$V_{DG2} = -V_T$$ $$V_{DS2}=V_{GS2}-V_T $$
+The minimum value of $V_{out}$ which ensures that $M_2$ operates in pinch-off is called $V_{min}$  Note that $V_o=V_{DS2}$ 
 
 including $V_{SS}$: 
 
 $$V_o=V_{DS2}+V_{SS}$$
-If the aspect ratios of M1 and M2 are equal, then for ideal transistors:
+If the aspect ratios of $M_1$ and $M_2$ are equal, then for ideal transistors:
 
 $$I_{in}=\frac{K'}{2}\frac{W}{L}_1(V_{GS1}-V_T)^2$$
 $$I_{in}=\frac{K'}{2}\frac{W}{L}_2(V_{GS2}-V_T)^2$$
@@ -52,11 +52,11 @@ AC output resistance $r_{out}$
 
 
 V_{Min}
-Limiting current for M2 to current in pinchoff: $V_{DS2_{sat}}$
+Limiting current for $M_2$ to current in pinch-off: $V_{DS2_{sat}}$
 
 $$V_{DS2_{sat}}=V_{GS2}-V_T$$
 
-$V_{min}$ is the limit of $V_o$ to remain in pinchoff 
+$V_{min}$ is the limit of $V_o$ to remain in pinch-off 
 
 \begin{centre} $\therefore$ for $V_{SS}=0V$$ 
 \end{centre}
@@ -77,7 +77,7 @@ and
 $$V_{GS1}-V_T=\sqrt{\frac{2I_{in}}{K!\frac{W}{L}}}$$
 In practice the simple current mirror operates with $V_{DS2}\neq V_{DS1}$ 
 
-In otder for $V_{DS2}\rightarrow V_{DS1}$
+In order for $V_{DS2}\rightarrow V_{DS1}$
 
 
 The cascode current mirror is used

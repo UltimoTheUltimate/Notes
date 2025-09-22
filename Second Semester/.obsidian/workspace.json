@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e37113d2fa740774",
+            "id": "0d507a428f58a403",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current Mismatches.md",
+                "file": "L-type.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,41 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Current Mismatches"
-            }
-          },
-          {
-            "id": "48ed9d745ab512cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DC non-idealities.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "DC non-idealities"
-            }
-          },
-          {
-            "id": "0d507a428f58a403",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "L-type"
             }
           }
         ]
@@ -97,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "core",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "909dd98b88ffaf57",
@@ -173,7 +140,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -185,13 +154,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Performance in Time.md"
+                "file": "Phase Margin MOS.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of System Performance in Time"
+              "title": "Outline of Phase Margin MOS"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -200,6 +173,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -207,47 +181,51 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "latex-ocr:LatexOCR": false
+      "latex-ocr:LatexOCR": false,
+      "open-vscode:VSCode": false
     }
   },
-  "active": "e37113d2fa740774",
+  "active": "0d507a428f58a403",
   "lastOpenFiles": [
-    "Current Mirror.md",
-    "Current Mismatches.md",
-    "Cascode Current Mirror.md",
-    "Pasted image 20250306112719.png",
-    "Pasted image 20250306110950.png",
-    "Pasted image 20250306103200.png",
+    "The need for a matching network.md",
+    "L-type.md",
+    "Series To Parallel Transformations.md",
+    "Maximum Power Transfer Theorem.md",
+    "RL networks.md",
+    "RC networks.md",
+    "The Design of Matching Networks.md",
+    "Matching Networks.md",
+    "Radio and Microwave Theory.md",
+    "The Core.md",
+    "Untitled.base",
     "IC Analogue Building Blocks.md",
+    "Inverter with current sources as load.md",
+    "Analogue Inverter Amplifier.md",
     "Operational Amplifiers and Applications.md",
     "IC Building Blocks.md",
-    "Channel Length Modulation.md",
-    "Current Source.md",
-    "Circuits.md",
-    "Integrator.md",
-    "DC non-idealities.md",
-    "Inverting Amplifier.md",
-    "The Core.md",
+    "Frequency Response of a Parallel -input inverting amplifier.md",
+    "Gain Bandwidth.md",
+    "MOS parasitic capacitances.md",
+    "Two pole system.md",
     "introduction.md",
-    "Active Resistors.md",
-    "Source absorption theory.md",
-    "AC Analysis of an MOS transistor in Pinch-off.md",
-    "Passive Resistors.md",
-    "Pasted image 20250225114045.png",
-    "Pasted image 20250225114017.png",
+    "Properties of a Practical op-amp.md",
     "Body Effect.md",
-    "Pasted image 20250225103511.png",
-    "Pasted image 20250225101730.png",
-    "Equations.md",
-    "Output Characteristics of N-Channel transistors.md",
-    "Pasted image 20250220113918.png",
-    "Pasted image 20250220111928.png",
-    "Instrementation Amplifier.md",
-    "Pasted image 20250220100555.png",
-    "Communications Theory.md",
-    "Signals And Noise.md",
-    "Fourier Transform.md",
-    "Time Invariant Systems.md",
+    "Current Mirror.md",
+    "Cascode Current Mirror.md",
+    "Passive Resistors.md",
+    "AC Analysis of an MOS transistor in Pinch-off.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Pasted image 20250403101134.png",
+    "Pasted image 20250327114016.png",
+    "Pasted image 20250327103452.png",
+    "Pasted image 20250320103143.png",
+    "Pasted image 20250320102507.png",
+    "Pasted image 20250313113445.png",
+    "Pasted image 20250313100450.png",
+    "Pasted image 20250313100437.png",
+    "Pasted image 20250306112719.png",
+    "Pasted image 20250306110950.png",
     "Control Systems",
     "Control SYstems",
     "Computer Logic 2/Untitled.canvas",

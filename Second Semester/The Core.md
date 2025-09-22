@@ -12,3 +12,7 @@ Second Year
 [[Communications Theory]]
 [[Pattern Recognition and Machine Learning]]
 [[Computer Systems and Organisation]]
+
+Third Year
+
+[[Radio and Microwave Theory]]
