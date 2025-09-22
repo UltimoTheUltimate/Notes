@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L-type.md",
+                "file": "RL networks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "L-type"
+              "title": "RL networks"
             }
           }
         ]
@@ -187,12 +187,21 @@
   },
   "active": "0d507a428f58a403",
   "lastOpenFiles": [
+    "Series To Parallel Transformations.md",
+    "RC networks.md",
     "The need for a matching network.md",
     "L-type.md",
-    "Series To Parallel Transformations.md",
+    "Pasted image 20250922164430.png",
+    "Pasted image 20250922164411.png",
+    "Pasted image 20250922163626.png",
+    "Pasted image 20250922162453.png",
+    "Pasted image 20250922162437.png",
+    "Pasted image 20250922162234.png",
+    "Pasted image 20250922162230.png",
+    "Pasted image 20250922162219.png",
+    "Pasted image 20250922161838.png",
     "Maximum Power Transfer Theorem.md",
     "RL networks.md",
-    "RC networks.md",
     "The Design of Matching Networks.md",
     "Matching Networks.md",
     "Radio and Microwave Theory.md",
@@ -213,19 +222,9 @@
     "Current Mirror.md",
     "Cascode Current Mirror.md",
     "Passive Resistors.md",
-    "AC Analysis of an MOS transistor in Pinch-off.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Pasted image 20250403101134.png",
-    "Pasted image 20250327114016.png",
-    "Pasted image 20250327103452.png",
-    "Pasted image 20250320103143.png",
-    "Pasted image 20250320102507.png",
-    "Pasted image 20250313113445.png",
-    "Pasted image 20250313100450.png",
-    "Pasted image 20250313100437.png",
-    "Pasted image 20250306112719.png",
-    "Pasted image 20250306110950.png",
     "Control Systems",
     "Control SYstems",
     "Computer Logic 2/Untitled.canvas",

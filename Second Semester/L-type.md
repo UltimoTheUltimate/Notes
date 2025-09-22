@@ -1,75 +1,160 @@
-Resistors are avoided at all cost due to noise
+## Matching Networks: L-Type Example
 
-instead the components used are:
-insuctors
-capacitors
+There are 2 types of L-type Matching Networks: 
 
-4 combinations using these
+- Shunt-Series
+- Series-Shunt
 
-mathematical example:
+Below is an example of a Series Shunt L-type Matching network consisting of a capacitor in series with an inductor in parallel (Shunt)
 
-(references example 1 of matching networks sheet)
+![[Pasted image 20250922162453.png]]
 
-insert DIAG F1
+Below is an example of a Shunt Series L-type Matching network consisting of a Shunt -Series L-Type Matching Network.
 
-Zs = 150+j75R
-ZL = 75 + j15R
-f = 2GHz
+![[Pasted image 20250922162437.png]]
 
-values are not conjugates.
+> **Note:** Resistors are avoided at all cost due to noise and odd behaviour.  
+> Instead, the components used are **inductors** and **capacitors**.
 
-so:
+There are **4 combinations** using these components as $X_A$ and $X_B$ being:
 
-1/Zs^* = 1/jX_A + 1/JX_B = 1/jXb + ZL
+- Inductor Inductor
+- Inductor Capacitor
+- Capacitor Inductor
+- Capacitor Inductor
 
-1/150-j75 = 1/jXA + 1/75+j15+jXb
+---
 
-collect Re and Im
+### Mathematical Example
 
-1/150-j75 = 1/jXA + 1/75 + j(15+XB)
+*(References Example 1 of Matching Networks sheet)*
+
+**Diagram:**  
+![[Pasted image 20250922163626.png]]
+
+**Given:**  
+- $Z_S = 150 + j75~\Omega$
+- $Z_L = 75 + j15~\Omega$
+- $f = 2~\text{GHz}$
+
+Values are **not conjugates**, therefore we must use a matching network as shown above.
+
+---
+
+#### Calculations
+
+$$
+\frac{1}{Z_S^*} = \frac{1}{jX_A} + \frac{1}{jX_B} = \frac{1}{jX_B} + Z_L
+$$
+
+$$
+\frac{1}{150 - j75} = \frac{1}{jX_A} + \frac{1}{75 + j15 + jX_B}
+$$
+
+Collect real and imaginary parts:
+
+$$
+\frac{1}{150 - j75} = \frac{1}{jX_A} + \frac{1}{75 + j(15 + X_B)}
+$$
 
 Rationalise:
 
-150+j75/150^2 + 75^2 = 1/jXA + 75-j(15+Xb/75^2+(15+XB)^2)
+$$
+\frac{150 + j75}{150^2 + 75^2} = \frac{1}{jX_A} + \frac{75 - j(15 + X_B)}{75^2 + (15 + X_B)^2}
+$$
 
+---
 
-real:
-150/150^2+75^2 = 75/75^2 + (15+XB)^2
+##### Real Part
 
-Imaginary:
-75/150^2+75^2 = -1/XA -(15+XB)/75^2+(15+XB)^2
+$$
+\frac{150}{150^2 + 75^2} = \frac{75}{75^2 + (15 + X_B)^2}
+$$
 
-Real:
+##### Imaginary Part
 
-75^2+(15+XB)^2 = 14062.5
-15+XB^2 = 8437.5
-15+XB^2 = +- 91.856 
-XB^2 = 76.86R (inductor) or -106.856R (capacitor)
+$$
+\frac{75}{150^2 + 75^2} = -\frac{1}{X_A} - \frac{(15 + X_B)}{75^2 + (15 + X_B)^2}
+$$
 
-for inductor:
+---
 
-76.86R = 2pifLb
-Lb = 76.86/2pi.2GHz = 6.12nH
+#### Solving for $X_B$
 
-106.856 = 1/2pifcb
+$$
+75^2 + (15 + X_B)^2 = 14062.5
+$$
 
-CB = 1/106.856x2pix2GHZ = 0.745pF
+$$
+(15 + X_B)^2 = 8437.5
+$$
 
-imaginary:
+$$
+15 + X_B = \pm 91.856
+$$
 
-75/150^2+75^2 = -1/X_A - 15.76.86/75^2 + (15+76.86)^2
+$$
+X_B = 76.86~\Omega \quad (\text{inductor})
+$$
+**or:**
+$$
+X_B = -106.856~\Omega \quad (\text{capacitor})
+$$
 
-when XB = 76.86R:
-XA = 108.71R
+---
 
+##### For Inductor
 
-XA = 1/2pifCA
-CA = 1/2pix2Gx108.71 = 0.732pF
+$$
+76.86~\Omega = 2\pi f L_B \\
+L_B = \frac{76.86}{2\pi \times 2\,\text{GHz}} = 6.12~\text{nH}
+$$
 
-when XB = -106.85:
-75/(150^2+75^2) = -1/XA - (15-106.856)/(75^2+(15-106.856)^2)
-XA = 258.71R
-258.71 = 2pifLA
-LA = 20.6nH
+##### For Capacitor
 
-INSERT DIAGS F2
+$$
+106.856~\Omega = \frac{1}{2\pi f C_B} \\
+C_B = \frac{1}{106.856 \times 2\pi \times 2\,\text{GHz}} = 0.745~\text{pF}
+$$
+
+---
+
+#### Imaginary Part (when $X_B = 76.86~\Omega$)
+
+$$
+\frac{75}{150^2 + 75^2} = -\frac{1}{X_A} - \frac{15 + 76.86}{75^2 + (15 + 76.86)^2}
+$$
+
+$$
+X_A = 108.71~\Omega
+$$
+
+$$
+X_A = \frac{1}{2\pi f C_A} \\
+C_A = \frac{1}{2\pi \times 2\,\text{GHz} \times 108.71} = 0.732~\text{pF}
+$$
+
+---
+
+#### When $X_B = -106.85~\Omega$
+
+$$
+\frac{75}{150^2 + 75^2} = -\frac{1}{X_A} - \frac{15 - 106.856}{75^2 + (15 - 106.856)^2}
+$$
+
+$$
+X_A = 258.71~\Omega
+$$
+
+$$
+258.71~\Omega = 2\pi f L_A \\
+L_A = \frac{258.71}{2\pi \times 2\,\text{GHz}} = 20.6~\text{nH}
+$$
+
+---
+
+The two solutions can be presented as so:
+**Diagrams:**  
+![[Pasted image 20250922164411.png]]
+![[Pasted image 20250922164430.png]]
+Each solution is mathematically identical at 2GHz, however, the choice depends on component availability and frequency response.

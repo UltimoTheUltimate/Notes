@@ -8,6 +8,8 @@ $$
 Z_{\text{series}} = R_s + j\omega L_s
 $$
 
+---
+
 ### Parallel Form
 
 Resistor $R_p$ in parallel with inductor $L_p$:
@@ -15,6 +17,8 @@ Resistor $R_p$ in parallel with inductor $L_p$:
 $$
 Z_{\text{parallel}} = \frac{1}{\frac{1}{R_p} + \frac{1}{j\omega L_p}} = \frac{j\omega L_p R_p}{R_p + j\omega L_p}
 $$
+
+---
 
 ### Equating Series and Parallel Forms
 
@@ -24,6 +28,8 @@ $$
 R_s + j\omega L_s = \frac{j\omega L_p R_p}{R_p + j\omega L_p}
 $$
 
+---
+
 ### Rationalising the Denominator
 
 Multiply numerator and denominator by the complex conjugate:
@@ -32,11 +38,13 @@ $$
 \frac{j\omega L_p R_p}{R_p + j\omega L_p} \cdot \frac{R_p - j\omega L_p}{R_p - j\omega L_p}
 $$
 
-But for coefficient comparison, expand denominator:
+For coefficient comparison, expand denominator:
 
 $$
 R_p + j\omega L_p
 $$
+
+---
 
 ### Compare Coefficients
 
@@ -86,6 +94,8 @@ $$
 L_p = L_s \left[\left(\frac{1}{Q_p}\right)^2 + 1\right]
 $$
 
+---
+
 ### Quality Factor
 
 $$
@@ -103,6 +113,8 @@ So,
 $$
 Q_s = \frac{1}{Q_p}
 $$
+
+---
 
 ### Summary Relations
 
