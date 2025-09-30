@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL networks.md",
+                "file": "T Matching Networks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "RL networks"
+              "title": "T Matching Networks"
             }
           }
         ]
@@ -188,6 +188,16 @@
   "active": "0d507a428f58a403",
   "lastOpenFiles": [
     "Series To Parallel Transformations.md",
+    "T Matching Networks.md",
+    "The Reflection coefficient.md",
+    "Sketching frequency response.md",
+    "Gaining more information about frequency response.md",
+    "Using a Smith chart to calculate network parameters.md",
+    "image.png",
+    "How To Read A Smith Chart.md",
+    "RL networks.md",
+    "Untitled 1.base",
+    "Untitled 2.base",
     "RC networks.md",
     "The need for a matching network.md",
     "L-type.md",
@@ -201,7 +211,6 @@
     "Pasted image 20250922162219.png",
     "Pasted image 20250922161838.png",
     "Maximum Power Transfer Theorem.md",
-    "RL networks.md",
     "The Design of Matching Networks.md",
     "Matching Networks.md",
     "Radio and Microwave Theory.md",
@@ -217,14 +226,8 @@
     "MOS parasitic capacitances.md",
     "Two pole system.md",
     "introduction.md",
-    "Properties of a Practical op-amp.md",
-    "Body Effect.md",
-    "Current Mirror.md",
-    "Cascode Current Mirror.md",
-    "Passive Resistors.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Pasted image 20250403101134.png",
     "Control Systems",
     "Control SYstems",
     "Computer Logic 2/Untitled.canvas",
