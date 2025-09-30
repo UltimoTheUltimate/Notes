@@ -1,36 +1,60 @@
-Skeleton Notes Example:
+## Skeleton Notes Example
 
-Design a T-type matching network that transforms a load impedance Z_l=60-j30/Omega into an input inpedance of 10+j20/Omega and has a maximum nodal quality factor of 3.
+### Problem Statement
+Design a T-type matching network to transform a load impedance of $Z_L = 60 - j30~\Omega$ into an input impedance of $10 + j20~\Omega$, with a maximum nodal quality factor of 3.
 
-Z_L = 60-j30/Omega
-Zs^* = 10+j20/Omega
+- **Load Impedance:** $Z_L = 60 - j30~\Omega$
+- **Input Impedance (Conjugate):** $Z_S^* = 10 + j20~\Omega$
 
-Normalizing impedances by 50\Omega:
+### Normalizing Impedances (by $50~\Omega$)
 
-Z_L' = 60-j30\Omega/50\Omega = 1.2-j0.6
+- $Z_L' = \dfrac{60 - j30~\Omega}{50~\Omega} = 1.2 - j0.6$
+- $Z_S^{*'} = \dfrac{10 + j20~\Omega}{50~\Omega} = 0.2 + j0.4$
 
-Z_S*' = 10+k20\Omega/50\Omega = 0.2+j0.4
+---
 
-from smith chart:
+### Smith Chart Steps
 
-C1: 1.2-j0.6 -> 1.2-j1.0
-\Delta = 0.4 x 50 = 1/2pifC1
+#### Capacitor $C_1$
+- $1.2 - j0.6 \rightarrow 1.2 - j1.0$
+- $\Delta = 0.4 \times 50 = 20$
+- $C_1 = \dfrac{1}{2\pi f \times 20}$
+- $C_1 = 7.96~\text{pF}$
 
-C1 = 1/2pifx0.4x50
-C1 = 7.96pF
-C2:
+#### Capacitor $C_2$
+- $0.5 - j0.4 \rightarrow 0.5 - j1.5$
+- $\Delta = 1.1$
+- $C_2 = \dfrac{1.1}{2\pi f \times 50}$
+- $C_2 = 3.5~\text{pF}$
 
-0.5-j0.4 -> 0.5 - j1.5
-\Delta = 1.1
+#### Inductor $L_3$
+- $0.2 - j0.6 \rightarrow 0.2 + j0.4$
+- $\Delta = 1 \rightarrow 1 \times 50 = 50$
+- $L_3 = \dfrac{50}{2\pi \times 1~\text{GHz}}$
+- $L_3 = 7.96~\text{nH}$
 
-1/1.1x50 (as it is on admittance circles) = 1/2pifC2
+---
 
-C2 = 1.1/2pifx50
-C2 = 3.5pF
+### Alternative Solution
 
+#### Inductor $L_1$
+- $1.2 - j0.6 \rightarrow 1.2 + j$
+- $\Delta = 1.6 \times 50 = 80$
+- $1.6 \times 50 = 2\pi f L_1$
+- $L_1 = 12.7~\text{nH}$
 
-L3 => 0.2 -j0.6 -> 0.2 + j0.4
-\Delta = 1 1x50 = 2pifL3
-L3 = 50/2pix1GHz
-L3 = 7.96nH
+#### Inductor $L_2$
+- $0.5 + j0.4 \rightarrow 0.5 + j1.5$
+- $\Delta = 1.1$
+- $1.1 \times 50 = 2\pi f L_2$
+- $L_2 = 7.23~\text{nH}$
 
+#### Capacitor $C_3$
+- $0.2 + j0.6 \rightarrow 0.2 + 0.4$
+- $\Delta = 0.2$
+- $0.2 \times 50 = \dfrac{1}{2\pi f C_3}$
+- $C_3 = 15.9~\text{pF}$
+
+---
+
+**Note:** Use the Smith chart for graphical impedance/admittance transformations and component value calculations.

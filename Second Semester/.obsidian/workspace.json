@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "T Matching Networks.md",
+                "file": "Pi Type Matching Networks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "T Matching Networks"
+              "title": "Pi Type Matching Networks"
             }
           }
         ]
@@ -188,6 +188,7 @@
   "active": "0d507a428f58a403",
   "lastOpenFiles": [
     "Series To Parallel Transformations.md",
+    "Pi Type Matching Networks.md",
     "T Matching Networks.md",
     "The Reflection coefficient.md",
     "Sketching frequency response.md",
@@ -225,7 +226,6 @@
     "Gain Bandwidth.md",
     "MOS parasitic capacitances.md",
     "Two pole system.md",
-    "introduction.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Control Systems",
