@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pi Type Matching Networks.md",
+                "file": "Inverter Amplifier (VLSI).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pi Type Matching Networks"
+              "title": "Inverter Amplifier (VLSI)"
             }
           }
         ]
@@ -187,6 +187,16 @@
   },
   "active": "0d507a428f58a403",
   "lastOpenFiles": [
+    "Analogue VLSI.md",
+    "Inverter Amplifier (VLSI).md",
+    "Current Mirror (VLSI).md",
+    "Current Source (VLSI).md",
+    "Current Source.md",
+    "Ac response of an active load.md",
+    "The Core.md",
+    "Radio and Microwave Theory.md",
+    "Matching Networks.md",
+    "The Design of Matching Networks.md",
     "Series To Parallel Transformations.md",
     "Pi Type Matching Networks.md",
     "T Matching Networks.md",
@@ -212,20 +222,10 @@
     "Pasted image 20250922162219.png",
     "Pasted image 20250922161838.png",
     "Maximum Power Transfer Theorem.md",
-    "The Design of Matching Networks.md",
-    "Matching Networks.md",
-    "Radio and Microwave Theory.md",
-    "The Core.md",
     "Untitled.base",
     "IC Analogue Building Blocks.md",
     "Inverter with current sources as load.md",
     "Analogue Inverter Amplifier.md",
-    "Operational Amplifiers and Applications.md",
-    "IC Building Blocks.md",
-    "Frequency Response of a Parallel -input inverting amplifier.md",
-    "Gain Bandwidth.md",
-    "MOS parasitic capacitances.md",
-    "Two pole system.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Control Systems",

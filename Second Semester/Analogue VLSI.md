@@ -1,0 +1,7 @@
+[[Ac response of an active load ]]
+[[Current Source]]
+[[Current Source (VLSI)]]
+[[Current Mirror]]
+[[Current Mirror (VLSI)]]
+[[Inverter Amplifier]]
+[[Inverter Amplifier (VLSI)]]
