@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inverter Amplifier (VLSI).md",
+                "file": "Multi-Port Network.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inverter Amplifier (VLSI)"
+              "title": "Multi-Port Network"
             }
           }
         ]
@@ -187,17 +187,20 @@
   },
   "active": "0d507a428f58a403",
   "lastOpenFiles": [
+    "The Design of Matching Networks.md",
+    "Multi-Port Network.md",
+    "Series To Parallel Transformations.md",
+    "The need for a matching network.md",
+    "L-type.md",
+    "Matching Networks.md",
+    "Radio and Microwave Theory.md",
+    "The Core.md",
     "Analogue VLSI.md",
-    "Inverter Amplifier (VLSI).md",
     "Current Mirror (VLSI).md",
+    "Inverter Amplifier (VLSI).md",
     "Current Source (VLSI).md",
     "Current Source.md",
     "Ac response of an active load.md",
-    "The Core.md",
-    "Radio and Microwave Theory.md",
-    "Matching Networks.md",
-    "The Design of Matching Networks.md",
-    "Series To Parallel Transformations.md",
     "Pi Type Matching Networks.md",
     "T Matching Networks.md",
     "The Reflection coefficient.md",
@@ -210,8 +213,6 @@
     "Untitled 1.base",
     "Untitled 2.base",
     "RC networks.md",
-    "The need for a matching network.md",
-    "L-type.md",
     "Pasted image 20250922164430.png",
     "Pasted image 20250922164411.png",
     "Pasted image 20250922163626.png",
@@ -225,7 +226,6 @@
     "Untitled.base",
     "IC Analogue Building Blocks.md",
     "Inverter with current sources as load.md",
-    "Analogue Inverter Amplifier.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Control Systems",

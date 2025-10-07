@@ -12,16 +12,6 @@ Consider $V_{in}$ as it increases from 0V to $V_{DD}$ (typically $V_{D0} \approx
 
 
 
-
-
-
-
-
-
-
-
-
-
 - Note that $V_{GS1} = V_{in}$
 - $V_{out} = V_{DD} - V_{SD2}$  
     or  
