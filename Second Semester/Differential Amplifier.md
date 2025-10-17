@@ -132,3 +132,4 @@ For a single ended output:
 $r_{out} = (r_{ds1} \parallel R) = (r_{ds2} \parallel R)$
 
 [[Common Mode Gain in Single ended output]]
+[[Differential Amplifier with Active Load]]

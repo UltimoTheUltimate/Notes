@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Common Mode Gain in Single ended output.md",
+                "file": "Differential Amplifier with Active Load.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Common Mode Gain in Single ended output"
+              "title": "Differential Amplifier with Active Load"
             }
           }
         ]
@@ -187,8 +187,15 @@
   },
   "active": "c3905c38d979f60f",
   "lastOpenFiles": [
+    "Pasted image 20251017115927.png",
+    "Pasted image 20251017114302.png",
+    "Pasted image 20251017112020.png",
     "Differential Amplifier.md",
+    "Differential Amplifier with Active Load.md",
     "Common Mode Gain in Single ended output.md",
+    "Pasted image 20251017103749.png",
+    "Pasted image 20251017103733.png",
+    "Pasted image 20251017101119.png",
     "Pasted image 20251014144511.png",
     "Pasted image 20251014134304.png",
     "Pasted image 20251014134144.png",
@@ -216,15 +223,8 @@
     "Pasted image 20251007091326.png",
     "Current Mirror (VLSI).md",
     "Current Source (VLSI).md",
-    "Current Source.md",
-    "Ac response of an active load.md",
-    "image.png",
     "Untitled 1.base",
     "Untitled 2.base",
-    "Pasted image 20250922164430.png",
-    "Pasted image 20250922164411.png",
-    "Pasted image 20250922163626.png",
-    "Pasted image 20250922162453.png",
     "Untitled.base",
     "Untitled.canvas",
     "Untitled 1.canvas",
