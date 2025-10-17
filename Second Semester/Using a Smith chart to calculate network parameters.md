@@ -1,4 +1,4 @@
-$Z_s = 150 + j75\Omega$
+ $Z_s = 150 + j75\Omega$
 Z_L = 75 + j15\Omega
 f = 2GHz
 

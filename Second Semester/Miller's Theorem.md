@@ -1,0 +1,1 @@
+Miller's theorem tells us that a capacitance e.g. C_GD1 between input to output, in this case node 1 to node 2 can be replaced by a capacitance C_gd1.Av, from input node 1 to gnd, and a capacitance C_GD1 from output node to gnd.

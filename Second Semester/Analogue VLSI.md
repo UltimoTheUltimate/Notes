@@ -5,3 +5,5 @@
 [[Current Mirror (VLSI)]]
 [[Inverter Amplifier]]
 [[Inverter Amplifier (VLSI)]]
+[[Frequency Response of an MOS Transistor]]
+[[Differential Amplifier]]

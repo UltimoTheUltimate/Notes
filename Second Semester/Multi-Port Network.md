@@ -1,8 +1,10 @@
 Two Port Networks:
 
-Transmission Parameters
-Impedance Parameters
-Admittance Parameters
-Hybrid Parameters
-Scattering Parameters
+[[Transmission Parameters]]     (ABCD)
+Impedance Parameters        (Z)
+Admittance Parameters       (Y)
+Hybrid Parameters           (H)
+Scattering Parameters       (S)
+
+![[Pasted image 20251007091326.png]]
 
