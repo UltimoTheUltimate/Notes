@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frequency Response for the Miller OTA.md",
+                "file": "Design Methodology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frequency Response for the Miller OTA"
+              "title": "Design Methodology"
             }
           }
         ]
@@ -170,10 +170,11 @@
   },
   "active": "a58ac17d35980f4d",
   "lastOpenFiles": [
-    "CMOS Miller OTA.md",
-    "Frequency Response for the Miller OTA.md",
     "Second Semester/Analogue VLSI.md",
+    "Design Methodology.md",
     "Second Semester/The Core.md",
+    "Frequency Response for the Miller OTA.md",
+    "CMOS Miller OTA.md",
     "Pasted image 20251028141127.png",
     "Transmission Line Theory.md",
     "Second Semester/Radio and Microwave Theory.md",
